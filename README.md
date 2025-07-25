@@ -1,4 +1,4 @@
-#  Mini-Project
+#  WEB HACKING PROJECT
 * Echo Command:
             echo command in shell is used to display a line of text or string.
 Syntax:
@@ -15,12 +15,12 @@ Example:
        read name
         echo "Hello, $name"
 
-  * Hydra Command
+* Hydra Command
                   Hydra (also called THC-Hydra) is a powerful tool used to perform brute-force login attacks on various protocols like HTTP, FTP, SSH, Telnet, etc.
    Syntax:
           hydra -l <username> -P <password_list> <protocol>://<target_ip>
 
-  * Vim Command:
+* Vim Command:
                 The vim command in the shell is used to open the Vim text editor. Here's a short overview:
 
    Basic Syntax:
